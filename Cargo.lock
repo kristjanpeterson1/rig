@@ -5255,7 +5255,7 @@ checksum = "4389f1d5789befaf6029ebd9f7dac4af7f7e3d61b69d4f30e2ac02b57e7712b0"
 
 [[package]]
 name = "rig-core"
-version = "0.6.0"
+version = "0.6.1"
 dependencies = [
  "anyhow",
  "assert_fs",
@@ -5288,7 +5288,7 @@ dependencies = [
 
 [[package]]
 name = "rig-lancedb"
-version = "0.2.1"
+version = "0.2.2"
 dependencies = [
  "anyhow",
  "arrow-array",
@@ -5303,7 +5303,7 @@ dependencies = [
 
 [[package]]
 name = "rig-mongodb"
-version = "0.2.1"
+version = "0.2.2"
 dependencies = [
  "anyhow",
  "futures",
@@ -5320,7 +5320,7 @@ dependencies = [
 
 [[package]]
 name = "rig-neo4j"
-version = "0.2.1"
+version = "0.2.2"
 dependencies = [
  "anyhow",
  "futures",
@@ -5339,7 +5339,7 @@ dependencies = [
 
 [[package]]
 name = "rig-qdrant"
-version = "0.1.4"
+version = "0.1.5"
 dependencies = [
  "anyhow",
  "httpmock",
@@ -5353,7 +5353,7 @@ dependencies = [
 
 [[package]]
 name = "rig-sqlite"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "anyhow",
  "chrono",
